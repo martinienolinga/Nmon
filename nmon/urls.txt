@@ -1,0 +1,2 @@
+https://computingforgeeks.com/install-grafana-and-influxdb-on-centos-7/
+https://www.fosslinux.com/8328/how-to-install-and-configure-grafana-on-centos-7.htm
